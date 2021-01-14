@@ -1,0 +1,470 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>简明圣经史地图解</dc:title>
+    <meta name="calibre:timestamp" content="2021-01-14T08:42:12.961811+00:00"/>
+    <dc:language>zh</dc:language>
+    <dc:creator>梁天枢</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">f895d0b5-4eca-4c3a-9667-bd057f517601</dc:identifier>
+    <dc:contributor opf:role="bkp">GitBook</dc:contributor>
+    <dc:publisher>GitBook</dc:publisher>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item id="cover" href="cover_image.jpg" media-type="image/jpeg"/>
+    <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html" href="SUMMARY.html" media-type="application/xhtml+xml"/>
+    <item id="html1" href="index.html" media-type="application/xhtml+xml"/>
+    <item id="html2" href="0-README.html" media-type="application/xhtml+xml"/>
+    <item id="html3" href="_Zong Tu 01_Jia Nan De Di Li Wei Zhi He Gu Dai Dui Wai Jiao Tong.html" media-type="application/xhtml+xml"/>
+    <item id="html4" href="_Zong Tu 02_Gu Dai Jia Nan Di Zhi Fan Wei He Jiao Tong Qing Xing.html" media-type="application/xhtml+xml"/>
+    <item id="html5" href="_Zong Tu 03_Jia Nan Di De Shan Feng He He Liu.html" media-type="application/xhtml+xml"/>
+    <item id="html6" href="_Zong Tu 04_Jia Nan Di De Zi Ran Qu Yu.html" media-type="application/xhtml+xml"/>
+    <item id="html7" href="_Zong Tu 05_Jia Nan Di Yuan Gu De Da Cheng Bang.html" media-type="application/xhtml+xml"/>
+    <item id="html8" href="0-README1.html" media-type="application/xhtml+xml"/>
+    <item id="html9" href="_Chuang Tu 01_Yi Dian He Hong Shui Qian Zhi Di.html" media-type="application/xhtml+xml"/>
+    <item id="html10" href="_Chuang Tu 02_Nuo Ya Hou Dai De Guo Zu Tu.html" media-type="application/xhtml+xml"/>
+    <item id="html11" href="_Chuang Tu 03_Zu Chang Men Zai Jia Nan Di Yi Wai Zhi Huo Dong.html" media-type="application/xhtml+xml"/>
+    <item id="html12" href="_Chuang Tu 04_Ya Bo La Han De Sheng Ping.html" media-type="application/xhtml+xml"/>
+    <item id="html13" href="_Chuang Tu 05_Luo De He Ta De Hou Dai --Mo Ya He Ya Men.html" media-type="application/xhtml+xml"/>
+    <item id="html14" href="_Chuang Tu 06_Bei Fang Si Wang Gong Da Nan Fang Wu Wang.html" media-type="application/xhtml+xml"/>
+    <item id="html15" href="_Chuang Tu 07_Xia Jia He Yi Shi Ma Li.html" media-type="application/xhtml+xml"/>
+    <item id="html16" href="_Chuang Tu 08_Yi Sa De Sheng Ping.html" media-type="application/xhtml+xml"/>
+    <item id="html17" href="_Chuang Tu 09_Ya Ge De Sheng Ping.html" media-type="application/xhtml+xml"/>
+    <item id="html18" href="_Chuang Tu 10_Yi Sao De Sheng Ping ,Yi Dong , Ya Ma Li He Mi Dian.html" media-type="application/xhtml+xml"/>
+    <item id="html19" href="_Chuang Tu 11_Yue Se He You Da De Sheng Ping.html" media-type="application/xhtml+xml"/>
+    <item id="html20" href="_Chuang Tu 12_Ai Ji Quan Tu.html" media-type="application/xhtml+xml"/>
+    <item id="html21" href="0-README2.html" media-type="application/xhtml+xml"/>
+    <item id="html22" href="_Chu Tu 01_Mo Xi Zao Nian.html" media-type="application/xhtml+xml"/>
+    <item id="html23" href="_Chu Tu 02_Yi Se Lie Ren Chu Ai Ji Dao Xi Nai Shan.html" media-type="application/xhtml+xml"/>
+    <item id="html24" href="0-README3.html" media-type="application/xhtml+xml"/>
+    <item id="html25" href="_Min Tu 01_Cong Xi Nai Shan Dao Jia Di Si.html" media-type="application/xhtml+xml"/>
+    <item id="html26" href="_Min Tu 02_Tan Kan Ying Xu Di He Ying Xu Di Zhi Fan Wei.html" media-type="application/xhtml+xml"/>
+    <item id="html27" href="_Min Tu 03_Cong He Er Shan Dao Mo Ya Ping Yuan.html" media-type="application/xhtml+xml"/>
+    <item id="html28" href="_Min Tu 04_Fen Di Gei Liang Ge Ban Zhi Pai.html" media-type="application/xhtml+xml"/>
+    <item id="html29" href="_Min Tu 05_Chu Ai Ji He Jin Jia Nan De Lu Cheng.html" media-type="application/xhtml+xml"/>
+    <item id="html30" href="0-README4.html" media-type="application/xhtml+xml"/>
+    <item id="html31" href="_Shen Tu 01_Ying Xu Zhi Di Quan Tu.html" media-type="application/xhtml+xml"/>
+    <item id="html32" href="_Shen Tu 02_Jin Jia Nan He Fen Di Gei Liang Ge Ban Zhi Pai.html" media-type="application/xhtml+xml"/>
+    <item id="html33" href="_Shen Tu 03_Mo Xi Guan Kan Jia Nan Di Hou Qu Shi He Mai Zang.html" media-type="application/xhtml+xml"/>
+    <item id="html34" href="0-README5.html" media-type="application/xhtml+xml"/>
+    <item id="html35" href="_Shu Tu 01_Guo Yue Dan He Ji Zheng Fu Nan Fang Zhu Wang.html" media-type="application/xhtml+xml"/>
+    <item id="html36" href="_Shu Tu 02_Zheng Fu Bei Fang Zhu Wang.html" media-type="application/xhtml+xml"/>
+    <item id="html37" href="_Shu Tu 03_Yi De He Wei De Zhi Di.html" media-type="application/xhtml+xml"/>
+    <item id="html38" href="_Shu Tu 04_Yi Se Lie Ren Suo Zheng Fu De San Shi San Ge Wang.html" media-type="application/xhtml+xml"/>
+    <item id="html39" href="_Shu Tu 05_Yue Dan He Dong Liang Ge Ban Zhi Pai De Di Ye.html" media-type="application/xhtml+xml"/>
+    <item id="html40" href="_Shu Tu 06_You Da Zhi Pai De Di Ye.html" media-type="application/xhtml+xml"/>
+    <item id="html41" href="_Shu Tu 07_Yi Fa Lian He Ma Na Xi Xi Ban Zhi Pai De Di Ye.html" media-type="application/xhtml+xml"/>
+    <item id="html42" href="_Shu Tu 08_Bian Ya Min , Dan He Yi Fa Lian De Di Ye.html" media-type="application/xhtml+xml"/>
+    <item id="html43" href="_Shu Tu 09_Xi Mian Zhi Pai De Di Ye.html" media-type="application/xhtml+xml"/>
+    <item id="html44" href="_Shu Tu 10_Xi Bu Lun , Yi Sa Jia , Ya She , Na Fu Ta Li Deng Zhi Pai De Di Ye.html" media-type="application/xhtml+xml"/>
+    <item id="html45" href="_Shu Tu 11_Li Wei Zhi Pai De Di Ye.html" media-type="application/xhtml+xml"/>
+    <item id="html46" href="0-README6.html" media-type="application/xhtml+xml"/>
+    <item id="html47" href="_Shi Tu 01_Gong Qu Nan Bu Zhi Di.html" media-type="application/xhtml+xml"/>
+    <item id="html48" href="_Shi Tu 02_Wei De Zhi Di.html" media-type="application/xhtml+xml"/>
+    <item id="html49" href="_Shi Tu 03_E Tuo Nie , Yi Hu , Di Bo La.html" media-type="application/xhtml+xml"/>
+    <item id="html50" href="_Shi Tu 04_Ji Dian , Ya Bi Mi Le , Tuo La.html" media-type="application/xhtml+xml"/>
+    <item id="html51" href="_Shi Tu 05_Yai Er , Ye Fu Ta.html" media-type="application/xhtml+xml"/>
+    <item id="html52" href="_Shi Tu 06_Can Sun.html" media-type="application/xhtml+xml"/>
+    <item id="html53" href="_Shi Tu 07_Yi Bi Zan , Yi Lun , Ya Dun.html" media-type="application/xhtml+xml"/>
+    <item id="html54" href="0-README7.html" media-type="application/xhtml+xml"/>
+    <item id="html55" href="_Sa Shang Tu 01_Sa Mu Er Ren Yi Se Lie De Xian Zhi.html" media-type="application/xhtml+xml"/>
+    <item id="html56" href="_Sa Shang Tu 02_Sa Mu Er Gao Sao Luo.html" media-type="application/xhtml+xml"/>
+    <item id="html57" href="_Sa Shang Tu 03_Sao Luo Gong Da Ya Men Ren.html" media-type="application/xhtml+xml"/>
+    <item id="html58" href="_Sa Shang Tu 04_Sao Luo He Fei Li Shi Ren De Zhan Zheng.html" media-type="application/xhtml+xml"/>
+    <item id="html59" href="_Sa Shang Tu 05_Yi Se Lie Ren Zai Sao Luo Shi Dai De Jiang Tu.html" media-type="application/xhtml+xml"/>
+    <item id="html60" href="_Sa Shang Tu 06_Sao Luo Gong Da Ya Ma Li Ren , Da Wei Sha Ge Li Ya.html" media-type="application/xhtml+xml"/>
+    <item id="html61" href="_Sa Shang Tu 07_Da Wei Tao Bi Sao Luo De Zhui Sha.html" media-type="application/xhtml+xml"/>
+    <item id="html62" href="_Sa Shang Tu 08_Da Wei Zhui Ji Ya Ma Li Ren.html" media-type="application/xhtml+xml"/>
+    <item id="html63" href="_Sa Shang Tu 09_Sao Luo Bei Fei Li Shi Ren Sha Hai.html" media-type="application/xhtml+xml"/>
+    <item id="html64" href="0-README8.html" media-type="application/xhtml+xml"/>
+    <item id="html65" href="_Sa Xia Tu 01_Da Wei Wang Zai Xi Bo Lun Zuo You Da He Yi Se Lie De Wang.html" media-type="application/xhtml+xml"/>
+    <item id="html66" href="_Sa Xia Tu 02_Da Wei Gong Qu Ye Lu Sa Leng Zuo Wei Shou Du ,Fei Li Shi Ren Liang Ci Gong Da Du Bei Ji Bai.html" media-type="application/xhtml+xml"/>
+    <item id="html67" href="_Sa Xia Tu 03_Da Wei Wang De Zhan Gong.html" media-type="application/xhtml+xml"/>
+    <item id="html68" href="_Sa Xia Tu 04_Ya Sha Long Mou Fan Ji Bei Zhu.html" media-type="application/xhtml+xml"/>
+    <item id="html69" href="_Sa Xia Tu 05_Shi Ba Pan Bian He Yue Ya Dian Shu Yi Se Lie Ren.html" media-type="application/xhtml+xml"/>
+    <item id="html70" href="_Sa Xia Tu 06_Da Wei Wang De Yong Shi.html" media-type="application/xhtml+xml"/>
+    <item id="html71" href="0-README9.html" media-type="application/xhtml+xml"/>
+    <item id="html72" href="_Wang Shang Tu 01_Ye Lu Sa Leng Cheng He Jian Sheng Dian.html" media-type="application/xhtml+xml"/>
+    <item id="html73" href="_Wang Shang Tu 02_Ling Xing Shi Jian.html" media-type="application/xhtml+xml"/>
+    <item id="html74" href="_Wang Shang Tu 03_Suo Luo Men Wang De Xing Zheng Qu.html" media-type="application/xhtml+xml"/>
+    <item id="html75" href="_Wang Shang Tu 04_Suo Luo Men Wang De Jiang Yu He Shu Guo.html" media-type="application/xhtml+xml"/>
+    <item id="html76" href="_Wang Shang Tu 05_Wang Guo Fen Lie.html" media-type="application/xhtml+xml"/>
+    <item id="html77" href="_Wang Shang Tu 06_Nan Bei Liang Guo Dui Zhi.html" media-type="application/xhtml+xml"/>
+    <item id="html78" href="_Wang Shang Tu 07_Xian Zhi Yi Li Ya.html" media-type="application/xhtml+xml"/>
+    <item id="html79" href="_Wang Shang Tu 08_Liang Guo He Hao Shi Qi.html" media-type="application/xhtml+xml"/>
+    <item id="html80" href="0-README10.html" media-type="application/xhtml+xml"/>
+    <item id="html81" href="_Wang Xia Tu 01_Xian Zhi Yi Li Sha.html" media-type="application/xhtml+xml"/>
+    <item id="html82" href="_Wang Xia Tu 02_Nan Bei Liang Guo Shuai Wei.html" media-type="application/xhtml+xml"/>
+    <item id="html83" href="_Wang Xia Tu 03_Ji Sheng Shi Qi.html" media-type="application/xhtml+xml"/>
+    <item id="html84" href="_Wang Xia Tu 04_Yi Se Lie Guo Fu Wang.html" media-type="application/xhtml+xml"/>
+    <item id="html85" href="_Wang Xia Tu 05_You Da Guo Shou Ya Shu Zhi Qi Ya.html" media-type="application/xhtml+xml"/>
+    <item id="html86" href="_Wang Xia Tu 06_You Da Guo Shou Ai Ji He Ba Bi Lun Zhi Qi Ya.html" media-type="application/xhtml+xml"/>
+    <item id="html87" href="_Wang Xia Tu 07_Ya Shu Di Guo.html" media-type="application/xhtml+xml"/>
+    <item id="html88" href="_Wang Xia Tu 08_Ba Bi Lun Di Guo.html" media-type="application/xhtml+xml"/>
+    <item id="html89" href="0-README11.html" media-type="application/xhtml+xml"/>
+    <item id="html90" href="_Dai Shang Tu 01_Yi Se Lie Di Zhong Zhi Ling Xing Di Ming.html" media-type="application/xhtml+xml"/>
+    <item id="html91" href="_Dai Shang Tu 02_Jia Le De Zi Sun.html" media-type="application/xhtml+xml"/>
+    <item id="html92" href="_Dai Shang Tu 03_Xi Mian Zhi Pai De Ling Tu.html" media-type="application/xhtml+xml"/>
+    <item id="html93" href="_Dai Shang Tu 04_He Dong Liang Ge Ban Zhi Pai.html" media-type="application/xhtml+xml"/>
+    <item id="html94" href="_Dai Shang Tu 05_Yi Fa Lian Zhi Pai Zhan Ling Zhi Jiang Yu.html" media-type="application/xhtml+xml"/>
+    <item id="html95" href="_Dai Shang Tu 06_Bian Ya Min De Ling Tu.html" media-type="application/xhtml+xml"/>
+    <item id="html96" href="_Dai Shang Tu 07_Da Wei Wang Ban Chang De Zu Ji.html" media-type="application/xhtml+xml"/>
+    <item id="html97" href="0-README12.html" media-type="application/xhtml+xml"/>
+    <item id="html98" href="_Dai Xia Tu 01_Yi Se Lie Di Nei De Ling Xing Di Ming.html" media-type="application/xhtml+xml"/>
+    <item id="html99" href="0-README13.html" media-type="application/xhtml+xml"/>
+    <item id="html100" href="_La Tu 01_Bo Si Di Guo.html" media-type="application/xhtml+xml"/>
+    <item id="html101" href="_La Tu 02_Hui Guo Ge Yi Se Lie Ren De Zu Ji.html" media-type="application/xhtml+xml"/>
+    <item id="html102" href="_La Tu 03_Qi Ta Yi Se Lie Di Zhi Ge Cheng.html" media-type="application/xhtml+xml"/>
+    <item id="html103" href="0-README14.html" media-type="application/xhtml+xml"/>
+    <item id="html104" href="_Ni Tu 01_Ni Xi Mi Suo Zhu Zhi Cheng Qiang.html" media-type="application/xhtml+xml"/>
+    <item id="html105" href="_Ni Tu 02_Zhu Cheng Ren He Chang Ge Ren Suo Ju Zhi Cheng.html" media-type="application/xhtml+xml"/>
+    <item id="html106" href="_Ni Tu 03_You Da Ren He Bian Ya Min Ren Suo Ju Zhi Cheng.html" media-type="application/xhtml+xml"/>
+    <item id="html107" href="0-README15.html" media-type="application/xhtml+xml"/>
+    <item id="html108" href="_Si Tu 01_Yi Si Tie Ji.html" media-type="application/xhtml+xml"/>
+    <item id="html109" href="0-README16.html" media-type="application/xhtml+xml"/>
+    <item id="html110" href="_Bo Tu 01_Yue Bo De Gu Shi.html" media-type="application/xhtml+xml"/>
+    <item id="html111" href="0-README17.html" media-type="application/xhtml+xml"/>
+    <item id="html112" href="_Shi Tu 00_Shi Pian.html" media-type="application/xhtml+xml"/>
+    <item id="html113" href="_Shi Tu 01_Shi Pian Zhong De Yi Se Lie Ge Di.html" media-type="application/xhtml+xml"/>
+    <item id="html114" href="_Shi Tu 02_Shi Pian Zhong De Yi Se Lie Di Zhi Wai Ge Di.html" media-type="application/xhtml+xml"/>
+    <item id="html115" href="0-README18.html" media-type="application/xhtml+xml"/>
+    <item id="html116" href="_Ge Tu 00_Ya Ge.html" media-type="application/xhtml+xml"/>
+    <item id="html117" href="_Ge Tu 01_Ya Ge Zhong De Yi Se Lie Ge Di.html" media-type="application/xhtml+xml"/>
+    <item id="html118" href="0-README19.html" media-type="application/xhtml+xml"/>
+    <item id="html119" href="_Sai Tu 01_Yi Sai Ya Shu Zhong De Yi Se Lie Ge Di.html" media-type="application/xhtml+xml"/>
+    <item id="html120" href="_Sai Tu 02_Yi Sai Ya Shu Zhong De Yi Se Lie Di Zhi Wai Ge Di.html" media-type="application/xhtml+xml"/>
+    <item id="html121" href="_Sai Tu 03_Ya Shu Gong Da You Da.html" media-type="application/xhtml+xml"/>
+    <item id="html122" href="_Sai Tu 04_Mo Ya Di Tu.html" media-type="application/xhtml+xml"/>
+    <item id="html123" href="0-README20.html" media-type="application/xhtml+xml"/>
+    <item id="html124" href="_Ye Tu 01_Ye Li Mi Shu Zhong De Yi Se Lie Ge Di.html" media-type="application/xhtml+xml"/>
+    <item id="html125" href="_Ye Tu 02_Ye Li Mi Shu Zhong De Yi Se Lie Di Zhi Wai Ge Di.html" media-type="application/xhtml+xml"/>
+    <item id="html126" href="0-README21.html" media-type="application/xhtml+xml"/>
+    <item id="html127" href="_Jie Tu 01_Yi Xi Jie Shu Zhong De Yi Se Lie Ge Di.html" media-type="application/xhtml+xml"/>
+    <item id="html128" href="_Jie Tu 02_Yi Xi Jie Shu Zhong De Yi Se Lie Di Zhi Wai Ge Di.html" media-type="application/xhtml+xml"/>
+    <item id="html129" href="_Jie Tu 03_Yi Xi Jie Yu Yan Zhong De Ying Xu Zhi Di.html" media-type="application/xhtml+xml"/>
+    <item id="html130" href="0-README22.html" media-type="application/xhtml+xml"/>
+    <item id="html131" href="_Dan Tu 00_Dan Yi Li Shu.html" media-type="application/xhtml+xml"/>
+    <item id="html132" href="_Dan Tu 01_Xiao Xian Zhi Shu Zhong De Yi Se Lie Ge Di.html" media-type="application/xhtml+xml"/>
+    <item id="html133" href="0-README23.html" media-type="application/xhtml+xml"/>
+    <item id="html134" href="_He Tu 00_He Xi A Shu.html" media-type="application/xhtml+xml"/>
+    <item id="html135" href="_He Tu 01_Xiao Xian Zhi Shu Zhong De Yi Se Lie Di Zhi Wai Ge Di.html" media-type="application/xhtml+xml"/>
+    <item id="html136" href="0-README24.html" media-type="application/xhtml+xml"/>
+    <item id="html137" href="Jiu Yue Qi Ta Xian Zhi Shu.html" media-type="application/xhtml+xml"/>
+    <item id="html138" href="0-README25.html" media-type="application/xhtml+xml"/>
+    <item id="html139" href="_Xin Tu 01_Zhu Qian Si Nian Dao Zhu Hou San Shi Nian Jian De Ba Le Si Tan.html" media-type="application/xhtml+xml"/>
+    <item id="html140" href="_Xin Tu 02_Xin Yue Shi Dai De Luo Ma Di Guo.html" media-type="application/xhtml+xml"/>
+    <item id="html141" href="0-README26.html" media-type="application/xhtml+xml"/>
+    <item id="html142" href="_Fu Tu 01_Zhu Dan Sheng He You Nian.html" media-type="application/xhtml+xml"/>
+    <item id="html143" href="_Fu Tu 02_Ye Su Shou Xi He Shou Shi Tan ,Kai Shi Chuan Dao.html" media-type="application/xhtml+xml"/>
+    <item id="html144" href="_Fu Tu 03_Ye Su Xing Chuan Zhi Er.html" media-type="application/xhtml+xml"/>
+    <item id="html145" href="_Fu Tu 04_Ye Su Xing Chuan Zhi San.html" media-type="application/xhtml+xml"/>
+    <item id="html146" href="_Fu Tu 05_Ye Su Bei Mai , Shou Shen , Ding Zui He Bei Ding Shi Zi Jia.html" media-type="application/xhtml+xml"/>
+    <item id="html147" href="0-README27.html" media-type="application/xhtml+xml"/>
+    <item id="html148" href="_Tu Tu 01_Wu Xun Jie Shi You Tai Ren Fen Bu Ge Chu Qing Xing.html" media-type="application/xhtml+xml"/>
+    <item id="html149" href="_Tu Tu 02_Fei Li He Bi De Chuan Dao De Qing Xing.html" media-type="application/xhtml+xml"/>
+    <item id="html150" href="_Tu Tu 03_Shi Tu Dao You Tai Sheng Wai Chuan Dao ,Bao Luo Xin Zhu He Zao Qi De Gong Zuo.html" media-type="application/xhtml+xml"/>
+    <item id="html151" href="_Tu Tu 04_Bao Luo Di Yi Ci Xing Chuan.html" media-type="application/xhtml+xml"/>
+    <item id="html152" href="_Tu Tu 05_Bao Luo Di Er Ci Xing Chuan.html" media-type="application/xhtml+xml"/>
+    <item id="html153" href="_Tu Tu 06_Bao Luo Di San Ci Xing Chuan.html" media-type="application/xhtml+xml"/>
+    <item id="html154" href="_Tu Tu 07_Bao Luo Bei Jie Ya Qu Luo Ma.html" media-type="application/xhtml+xml"/>
+    <item id="html155" href="0-README28.html" media-type="application/xhtml+xml"/>
+    <item id="html156" href="_Qi Tu 01_Qi Shi Lu.html" media-type="application/xhtml+xml"/>
+    <item id="html157" href="0-README29.html" media-type="application/xhtml+xml"/>
+    <item id="html158" href="_Fu Tu 01_Jia Di Si Ji Qi Jin Jiao.html" media-type="application/xhtml+xml"/>
+    <item id="html159" href="_Fu Tu 02_Ye Lu Sa Leng Cheng Qu He Cheng Qiang Bian Qian.html" media-type="application/xhtml+xml"/>
+    <item id="html160" href="Bian Pai Shuo Ming.html" media-type="application/xhtml+xml"/>
+    <item id="added2" href="001.gif" media-type="image/gif"/>
+    <item id="added3" href="002.gif" media-type="image/gif"/>
+    <item id="added4" href="003.gif" media-type="image/gif"/>
+    <item id="added5" href="004.gif" media-type="image/gif"/>
+    <item id="added6" href="005.gif" media-type="image/gif"/>
+    <item id="added7" href="006.gif" media-type="image/gif"/>
+    <item id="added8" href="007.gif" media-type="image/gif"/>
+    <item id="added9" href="008.gif" media-type="image/gif"/>
+    <item id="added10" href="009.gif" media-type="image/gif"/>
+    <item id="added11" href="010.gif" media-type="image/gif"/>
+    <item id="added12" href="011.gif" media-type="image/gif"/>
+    <item id="added13" href="012.gif" media-type="image/gif"/>
+    <item id="added14" href="013.gif" media-type="image/gif"/>
+    <item id="added15" href="014.gif" media-type="image/gif"/>
+    <item id="added16" href="015.gif" media-type="image/gif"/>
+    <item id="added17" href="016.gif" media-type="image/gif"/>
+    <item id="added18" href="017.gif" media-type="image/gif"/>
+    <item id="added19" href="018.gif" media-type="image/gif"/>
+    <item id="added20" href="019.gif" media-type="image/gif"/>
+    <item id="added21" href="020.gif" media-type="image/gif"/>
+    <item id="added22" href="021.gif" media-type="image/gif"/>
+    <item id="added23" href="022.gif" media-type="image/gif"/>
+    <item id="added24" href="023.gif" media-type="image/gif"/>
+    <item id="added25" href="024.gif" media-type="image/gif"/>
+    <item id="added26" href="025.gif" media-type="image/gif"/>
+    <item id="added27" href="026.gif" media-type="image/gif"/>
+    <item id="added28" href="027.gif" media-type="image/gif"/>
+    <item id="added29" href="028.gif" media-type="image/gif"/>
+    <item id="added30" href="029.gif" media-type="image/gif"/>
+    <item id="added31" href="030.gif" media-type="image/gif"/>
+    <item id="added32" href="031.gif" media-type="image/gif"/>
+    <item id="added33" href="032.gif" media-type="image/gif"/>
+    <item id="added34" href="033.gif" media-type="image/gif"/>
+    <item id="added35" href="034.gif" media-type="image/gif"/>
+    <item id="added36" href="035.gif" media-type="image/gif"/>
+    <item id="added37" href="036.gif" media-type="image/gif"/>
+    <item id="added38" href="037.gif" media-type="image/gif"/>
+    <item id="added39" href="038.gif" media-type="image/gif"/>
+    <item id="added40" href="039.gif" media-type="image/gif"/>
+    <item id="added41" href="040.gif" media-type="image/gif"/>
+    <item id="added42" href="041.gif" media-type="image/gif"/>
+    <item id="added43" href="042.gif" media-type="image/gif"/>
+    <item id="added44" href="043.gif" media-type="image/gif"/>
+    <item id="added45" href="044.gif" media-type="image/gif"/>
+    <item id="added46" href="045.gif" media-type="image/gif"/>
+    <item id="added47" href="046.gif" media-type="image/gif"/>
+    <item id="added48" href="047.gif" media-type="image/gif"/>
+    <item id="added49" href="048.gif" media-type="image/gif"/>
+    <item id="added50" href="049.gif" media-type="image/gif"/>
+    <item id="added51" href="050.gif" media-type="image/gif"/>
+    <item id="added52" href="051.gif" media-type="image/gif"/>
+    <item id="added53" href="052.gif" media-type="image/gif"/>
+    <item id="added54" href="053.gif" media-type="image/gif"/>
+    <item id="added55" href="054.gif" media-type="image/gif"/>
+    <item id="added56" href="055.gif" media-type="image/gif"/>
+    <item id="added57" href="056.gif" media-type="image/gif"/>
+    <item id="added58" href="057.gif" media-type="image/gif"/>
+    <item id="added59" href="058.gif" media-type="image/gif"/>
+    <item id="added60" href="059.gif" media-type="image/gif"/>
+    <item id="added61" href="060.gif" media-type="image/gif"/>
+    <item id="added62" href="061.gif" media-type="image/gif"/>
+    <item id="added63" href="062.gif" media-type="image/gif"/>
+    <item id="added64" href="063.gif" media-type="image/gif"/>
+    <item id="added65" href="064.gif" media-type="image/gif"/>
+    <item id="added66" href="065.gif" media-type="image/gif"/>
+    <item id="added67" href="066.gif" media-type="image/gif"/>
+    <item id="added68" href="067.gif" media-type="image/gif"/>
+    <item id="added69" href="068.gif" media-type="image/gif"/>
+    <item id="added70" href="069.gif" media-type="image/gif"/>
+    <item id="added71" href="070.gif" media-type="image/gif"/>
+    <item id="added72" href="071.gif" media-type="image/gif"/>
+    <item id="added73" href="072.gif" media-type="image/gif"/>
+    <item id="added74" href="073.gif" media-type="image/gif"/>
+    <item id="added75" href="074.gif" media-type="image/gif"/>
+    <item id="added76" href="075.gif" media-type="image/gif"/>
+    <item id="added77" href="076.gif" media-type="image/gif"/>
+    <item id="added78" href="077.gif" media-type="image/gif"/>
+    <item id="added79" href="078.gif" media-type="image/gif"/>
+    <item id="added80" href="079.gif" media-type="image/gif"/>
+    <item id="added81" href="080.gif" media-type="image/gif"/>
+    <item id="added82" href="081.gif" media-type="image/gif"/>
+    <item id="added83" href="082.gif" media-type="image/gif"/>
+    <item id="added84" href="083.gif" media-type="image/gif"/>
+    <item id="added85" href="084.gif" media-type="image/gif"/>
+    <item id="added86" href="085.gif" media-type="image/gif"/>
+    <item id="added87" href="086.gif" media-type="image/gif"/>
+    <item id="added88" href="087.gif" media-type="image/gif"/>
+    <item id="added89" href="088.gif" media-type="image/gif"/>
+    <item id="added90" href="089.gif" media-type="image/gif"/>
+    <item id="added91" href="090.gif" media-type="image/gif"/>
+    <item id="added92" href="091.gif" media-type="image/gif"/>
+    <item id="added93" href="092.gif" media-type="image/gif"/>
+    <item id="added94" href="093.gif" media-type="image/gif"/>
+    <item id="added95" href="094.gif" media-type="image/gif"/>
+    <item id="added96" href="095.gif" media-type="image/gif"/>
+    <item id="added97" href="096.gif" media-type="image/gif"/>
+    <item id="added98" href="097.gif" media-type="image/gif"/>
+    <item id="added99" href="098.gif" media-type="image/gif"/>
+    <item id="added100" href="099.gif" media-type="image/gif"/>
+    <item id="added101" href="100.gif" media-type="image/gif"/>
+    <item id="added102" href="101.gif" media-type="image/gif"/>
+    <item id="added103" href="102.gif" media-type="image/gif"/>
+    <item id="added104" href="103.gif" media-type="image/gif"/>
+    <item id="added105" href="104.gif" media-type="image/gif"/>
+    <item id="added106" href="105.gif" media-type="image/gif"/>
+    <item id="added107" href="106.gif" media-type="image/gif"/>
+    <item id="added109" href="107.gif" media-type="image/gif"/>
+    <item id="added110" href="108.gif" media-type="image/gif"/>
+    <item id="added111" href="109.gif" media-type="image/gif"/>
+    <item id="added112" href="110.gif" media-type="image/gif"/>
+    <item id="added113" href="111.gif" media-type="image/gif"/>
+    <item id="added108" href="112.gif" media-type="image/gif"/>
+    <item id="added114" href="113.gif" media-type="image/gif"/>
+    <item id="added115" href="114.gif" media-type="image/gif"/>
+    <item id="added116" href="115.gif" media-type="image/gif"/>
+    <item id="added117" href="116.gif" media-type="image/gif"/>
+    <item id="added118" href="117.gif" media-type="image/gif"/>
+    <item id="added119" href="118.gif" media-type="image/gif"/>
+    <item id="added120" href="119.gif" media-type="image/gif"/>
+    <item id="added121" href="120.gif" media-type="image/gif"/>
+    <item id="added122" href="121.gif" media-type="image/gif"/>
+    <item id="added123" href="122.gif" media-type="image/gif"/>
+    <item id="page_css" href="page_styles.css" media-type="text/css"/>
+    <item id="css" href="stylesheet.css" media-type="text/css"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html"/>
+    <itemref idref="html1"/>
+    <itemref idref="html2"/>
+    <itemref idref="html3"/>
+    <itemref idref="html4"/>
+    <itemref idref="html5"/>
+    <itemref idref="html6"/>
+    <itemref idref="html7"/>
+    <itemref idref="html8"/>
+    <itemref idref="html9"/>
+    <itemref idref="html10"/>
+    <itemref idref="html11"/>
+    <itemref idref="html12"/>
+    <itemref idref="html13"/>
+    <itemref idref="html14"/>
+    <itemref idref="html15"/>
+    <itemref idref="html16"/>
+    <itemref idref="html17"/>
+    <itemref idref="html18"/>
+    <itemref idref="html19"/>
+    <itemref idref="html20"/>
+    <itemref idref="html21"/>
+    <itemref idref="html22"/>
+    <itemref idref="html23"/>
+    <itemref idref="html24"/>
+    <itemref idref="html25"/>
+    <itemref idref="html26"/>
+    <itemref idref="html27"/>
+    <itemref idref="html28"/>
+    <itemref idref="html29"/>
+    <itemref idref="html30"/>
+    <itemref idref="html31"/>
+    <itemref idref="html32"/>
+    <itemref idref="html33"/>
+    <itemref idref="html34"/>
+    <itemref idref="html35"/>
+    <itemref idref="html36"/>
+    <itemref idref="html37"/>
+    <itemref idref="html38"/>
+    <itemref idref="html39"/>
+    <itemref idref="html40"/>
+    <itemref idref="html41"/>
+    <itemref idref="html42"/>
+    <itemref idref="html43"/>
+    <itemref idref="html44"/>
+    <itemref idref="html45"/>
+    <itemref idref="html46"/>
+    <itemref idref="html47"/>
+    <itemref idref="html48"/>
+    <itemref idref="html49"/>
+    <itemref idref="html50"/>
+    <itemref idref="html51"/>
+    <itemref idref="html52"/>
+    <itemref idref="html53"/>
+    <itemref idref="html54"/>
+    <itemref idref="html55"/>
+    <itemref idref="html56"/>
+    <itemref idref="html57"/>
+    <itemref idref="html58"/>
+    <itemref idref="html59"/>
+    <itemref idref="html60"/>
+    <itemref idref="html61"/>
+    <itemref idref="html62"/>
+    <itemref idref="html63"/>
+    <itemref idref="html64"/>
+    <itemref idref="html65"/>
+    <itemref idref="html66"/>
+    <itemref idref="html67"/>
+    <itemref idref="html68"/>
+    <itemref idref="html69"/>
+    <itemref idref="html70"/>
+    <itemref idref="html71"/>
+    <itemref idref="html72"/>
+    <itemref idref="html73"/>
+    <itemref idref="html74"/>
+    <itemref idref="html75"/>
+    <itemref idref="html76"/>
+    <itemref idref="html77"/>
+    <itemref idref="html78"/>
+    <itemref idref="html79"/>
+    <itemref idref="html80"/>
+    <itemref idref="html81"/>
+    <itemref idref="html82"/>
+    <itemref idref="html83"/>
+    <itemref idref="html84"/>
+    <itemref idref="html85"/>
+    <itemref idref="html86"/>
+    <itemref idref="html87"/>
+    <itemref idref="html88"/>
+    <itemref idref="html89"/>
+    <itemref idref="html90"/>
+    <itemref idref="html91"/>
+    <itemref idref="html92"/>
+    <itemref idref="html93"/>
+    <itemref idref="html94"/>
+    <itemref idref="html95"/>
+    <itemref idref="html96"/>
+    <itemref idref="html97"/>
+    <itemref idref="html98"/>
+    <itemref idref="html99"/>
+    <itemref idref="html100"/>
+    <itemref idref="html101"/>
+    <itemref idref="html102"/>
+    <itemref idref="html103"/>
+    <itemref idref="html104"/>
+    <itemref idref="html105"/>
+    <itemref idref="html106"/>
+    <itemref idref="html107"/>
+    <itemref idref="html108"/>
+    <itemref idref="html109"/>
+    <itemref idref="html110"/>
+    <itemref idref="html111"/>
+    <itemref idref="html112"/>
+    <itemref idref="html113"/>
+    <itemref idref="html114"/>
+    <itemref idref="html115"/>
+    <itemref idref="html116"/>
+    <itemref idref="html117"/>
+    <itemref idref="html118"/>
+    <itemref idref="html119"/>
+    <itemref idref="html120"/>
+    <itemref idref="html121"/>
+    <itemref idref="html122"/>
+    <itemref idref="html123"/>
+    <itemref idref="html124"/>
+    <itemref idref="html125"/>
+    <itemref idref="html126"/>
+    <itemref idref="html127"/>
+    <itemref idref="html128"/>
+    <itemref idref="html129"/>
+    <itemref idref="html130"/>
+    <itemref idref="html131"/>
+    <itemref idref="html132"/>
+    <itemref idref="html133"/>
+    <itemref idref="html134"/>
+    <itemref idref="html135"/>
+    <itemref idref="html136"/>
+    <itemref idref="html137"/>
+    <itemref idref="html138"/>
+    <itemref idref="html139"/>
+    <itemref idref="html140"/>
+    <itemref idref="html141"/>
+    <itemref idref="html142"/>
+    <itemref idref="html143"/>
+    <itemref idref="html144"/>
+    <itemref idref="html145"/>
+    <itemref idref="html146"/>
+    <itemref idref="html147"/>
+    <itemref idref="html148"/>
+    <itemref idref="html149"/>
+    <itemref idref="html150"/>
+    <itemref idref="html151"/>
+    <itemref idref="html152"/>
+    <itemref idref="html153"/>
+    <itemref idref="html154"/>
+    <itemref idref="html155"/>
+    <itemref idref="html156"/>
+    <itemref idref="html157"/>
+    <itemref idref="html158"/>
+    <itemref idref="html159"/>
+    <itemref idref="html160"/>
+  </spine>
+  <guide>
+    <reference type="cover" href="titlepage.xhtml" title="Title Page"/>
+  </guide>
+</package>

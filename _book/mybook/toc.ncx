@@ -1,0 +1,975 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zh-CN">
+  <head>
+    <meta name="dtb:uid" content="f895d0b5-4eca-4c3a-9667-bd057f517601"/>
+    <meta name="dtb:depth" content="3"/>
+    <meta name="dtb:generator" content="calibre (5.8.1)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>简明圣经史地图解</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uQASGHWwIhf8NBRfAdzVSIE" playOrder="1">
+      <navLabel>
+        <text>作者简介</text>
+      </navLabel>
+      <content src="index.html"/>
+    </navPoint>
+    <navPoint id="uIkeA6gAg5mAZRCI5KHhgr8" playOrder="2">
+      <navLabel>
+        <text>01-旧约总图</text>
+      </navLabel>
+      <content src="0-README.html"/>
+      <navPoint id="uT2yDiXBe4cmngKptXYTpUC" playOrder="3">
+        <navLabel>
+          <text>&lt;总图01&gt;迦南的地理位置和古代对外交通</text>
+        </navLabel>
+        <content src="_Zong%20Tu%2001_Jia%20Nan%20De%20Di%20Li%20Wei%20Zhi%20He%20Gu%20Dai%20Dui%20Wai%20Jiao%20Tong.html"/>
+      </navPoint>
+      <navPoint id="u7TqKQ6igMaElGLBwPYKG62" playOrder="4">
+        <navLabel>
+          <text>&lt;总图02&gt;古代迦南地之范围和交通情形</text>
+        </navLabel>
+        <content src="_Zong%20Tu%2002_Gu%20Dai%20Jia%20Nan%20Di%20Zhi%20Fan%20Wei%20He%20Jiao%20Tong%20Qing%20Xing.html"/>
+      </navPoint>
+      <navPoint id="unvXyb3xbvmZiNpX6gmQpBG" playOrder="5">
+        <navLabel>
+          <text>&lt;总图03&gt;迦南地的山峰和河流</text>
+        </navLabel>
+        <content src="_Zong%20Tu%2003_Jia%20Nan%20Di%20De%20Shan%20Feng%20He%20He%20Liu.html"/>
+      </navPoint>
+      <navPoint id="uL6nTEQTK8lLGgj9yu6ZrZF" playOrder="6">
+        <navLabel>
+          <text>&lt;总图04&gt;迦南地的自然区域</text>
+        </navLabel>
+        <content src="_Zong%20Tu%2004_Jia%20Nan%20Di%20De%20Zi%20Ran%20Qu%20Yu.html"/>
+      </navPoint>
+      <navPoint id="ucJARSHCFUvDpRrjL3Jk2eD" playOrder="7">
+        <navLabel>
+          <text>&lt;总图05&gt;迦南地远古的大城邦</text>
+        </navLabel>
+        <content src="_Zong%20Tu%2005_Jia%20Nan%20Di%20Yuan%20Gu%20De%20Da%20Cheng%20Bang.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="uW9BG3efXm8IU5r6ojIVrbC" playOrder="8">
+      <navLabel>
+        <text>02-创世记</text>
+      </navLabel>
+      <content src="0-README1.html"/>
+      <navPoint id="uLGNYaz4plb3yuXLEY5QQM7" playOrder="9">
+        <navLabel>
+          <text>&lt;创图01&gt;伊甸和洪水前之地</text>
+        </navLabel>
+        <content src="_Chuang%20Tu%2001_Yi%20Dian%20He%20Hong%20Shui%20Qian%20Zhi%20Di.html"/>
+      </navPoint>
+      <navPoint id="uJLRaVXzETSwPSRAxkgEKpC" playOrder="10">
+        <navLabel>
+          <text>&lt;创图02&gt;挪亚后代的国族图</text>
+        </navLabel>
+        <content src="_Chuang%20Tu%2002_Nuo%20Ya%20Hou%20Dai%20De%20Guo%20Zu%20Tu.html"/>
+      </navPoint>
+      <navPoint id="uKpAUDvFSyeRMnT288kEPP9" playOrder="11">
+        <navLabel>
+          <text>&lt;创图03&gt;族长们在迦南地以外之活动</text>
+        </navLabel>
+        <content src="_Chuang%20Tu%2003_Zu%20Chang%20Men%20Zai%20Jia%20Nan%20Di%20Yi%20Wai%20Zhi%20Huo%20Dong.html"/>
+      </navPoint>
+      <navPoint id="u2v6q6NKg3uZSXOXj9FbKjF" playOrder="12">
+        <navLabel>
+          <text>&lt;创图04&gt;亚伯拉罕的生平</text>
+        </navLabel>
+        <content src="_Chuang%20Tu%2004_Ya%20Bo%20La%20Han%20De%20Sheng%20Ping.html"/>
+      </navPoint>
+      <navPoint id="ussFIHD5dstlxLVA2Ggrbw3" playOrder="13">
+        <navLabel>
+          <text>&lt;创图05&gt;罗得和他的后代--摩押和亚扪</text>
+        </navLabel>
+        <content src="_Chuang%20Tu%2005_Luo%20De%20He%20Ta%20De%20Hou%20Dai%20--Mo%20Ya%20He%20Ya%20Men.html"/>
+      </navPoint>
+      <navPoint id="uwq3t8pyxRiBWqXhNl4koR9" playOrder="14">
+        <navLabel>
+          <text>&lt;创图06&gt;北方四王攻打南方五王</text>
+        </navLabel>
+        <content src="_Chuang%20Tu%2006_Bei%20Fang%20Si%20Wang%20Gong%20Da%20Nan%20Fang%20Wu%20Wang.html"/>
+      </navPoint>
+      <navPoint id="u8DKqLx47DJoFE6o3TjLP5B" playOrder="15">
+        <navLabel>
+          <text>&lt;创图07&gt;夏甲和以实玛利</text>
+        </navLabel>
+        <content src="_Chuang%20Tu%2007_Xia%20Jia%20He%20Yi%20Shi%20Ma%20Li.html"/>
+      </navPoint>
+      <navPoint id="unIO9w5UOfFruuzJwU84Fq8" playOrder="16">
+        <navLabel>
+          <text>&lt;创图08&gt;以撒的生平</text>
+        </navLabel>
+        <content src="_Chuang%20Tu%2008_Yi%20Sa%20De%20Sheng%20Ping.html"/>
+      </navPoint>
+      <navPoint id="uX772Df8zfCogXEOSnDZ768" playOrder="17">
+        <navLabel>
+          <text>&lt;创图09&gt;雅各的生平</text>
+        </navLabel>
+        <content src="_Chuang%20Tu%2009_Ya%20Ge%20De%20Sheng%20Ping.html"/>
+      </navPoint>
+      <navPoint id="uwWCOAHiVQV55HVQlYpT9I7" playOrder="18">
+        <navLabel>
+          <text>&lt;创图10&gt;以扫的生平，以东、亚玛力和米甸</text>
+        </navLabel>
+        <content src="_Chuang%20Tu%2010_Yi%20Sao%20De%20Sheng%20Ping%20%2cYi%20Dong%20%2c%20Ya%20Ma%20Li%20He%20Mi%20Dian.html"/>
+      </navPoint>
+      <navPoint id="ucVlrksPNbhyN8PPwBr76F4" playOrder="19">
+        <navLabel>
+          <text>&lt;创图11&gt;约瑟和犹大的生平</text>
+        </navLabel>
+        <content src="_Chuang%20Tu%2011_Yue%20Se%20He%20You%20Da%20De%20Sheng%20Ping.html"/>
+      </navPoint>
+      <navPoint id="ul5ZcxybYmvF6tuvUujqSt2" playOrder="20">
+        <navLabel>
+          <text>&lt;创图12&gt;埃及全图</text>
+        </navLabel>
+        <content src="_Chuang%20Tu%2012_Ai%20Ji%20Quan%20Tu.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="u6s8AvNfKdA3ggaoABPFBN9" playOrder="21">
+      <navLabel>
+        <text>03-出埃及记</text>
+      </navLabel>
+      <content src="0-README2.html"/>
+      <navPoint id="uAZsKTBqZm9gpLgNVMzyIqF" playOrder="22">
+        <navLabel>
+          <text>&lt;出图01&gt;摩西早年</text>
+        </navLabel>
+        <content src="_Chu%20Tu%2001_Mo%20Xi%20Zao%20Nian.html"/>
+      </navPoint>
+      <navPoint id="uxBp7RpPobixUoCuBpdsee6" playOrder="23">
+        <navLabel>
+          <text>&lt;出图02&gt;以色列人出埃及到西乃山</text>
+        </navLabel>
+        <content src="_Chu%20Tu%2002_Yi%20Se%20Lie%20Ren%20Chu%20Ai%20Ji%20Dao%20Xi%20Nai%20Shan.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="u2gePHYqPQOJGi2GcZd3OO7" playOrder="24">
+      <navLabel>
+        <text>04-民数记</text>
+      </navLabel>
+      <content src="0-README3.html"/>
+      <navPoint id="uh2PSIKCwvgGzccuMSX2AVD" playOrder="25">
+        <navLabel>
+          <text>&lt;民图01&gt;从西乃山到加低斯</text>
+        </navLabel>
+        <content src="_Min%20Tu%2001_Cong%20Xi%20Nai%20Shan%20Dao%20Jia%20Di%20Si.html"/>
+      </navPoint>
+      <navPoint id="uxPyTDSnFFOJxHkOpQA2jx2" playOrder="26">
+        <navLabel>
+          <text>&lt;民图02&gt;探看应许地和应许地之范围</text>
+        </navLabel>
+        <content src="_Min%20Tu%2002_Tan%20Kan%20Ying%20Xu%20Di%20He%20Ying%20Xu%20Di%20Zhi%20Fan%20Wei.html"/>
+      </navPoint>
+      <navPoint id="u9GAqJiOT9JNG9QAyLHRHXA" playOrder="27">
+        <navLabel>
+          <text>&lt;民图03&gt;从何珥山到摩押平原</text>
+        </navLabel>
+        <content src="_Min%20Tu%2003_Cong%20He%20Er%20Shan%20Dao%20Mo%20Ya%20Ping%20Yuan.html"/>
+      </navPoint>
+      <navPoint id="uwC3qJGoWX2zhUNkT9uCxqF" playOrder="28">
+        <navLabel>
+          <text>&lt;民图04&gt;分地给两个半支派</text>
+        </navLabel>
+        <content src="_Min%20Tu%2004_Fen%20Di%20Gei%20Liang%20Ge%20Ban%20Zhi%20Pai.html"/>
+      </navPoint>
+      <navPoint id="unBuSEDbvMJOpWrmEsZcz39" playOrder="29">
+        <navLabel>
+          <text>&lt;民图05&gt;出埃及和进迦南的旅程</text>
+        </navLabel>
+        <content src="_Min%20Tu%2005_Chu%20Ai%20Ji%20He%20Jin%20Jia%20Nan%20De%20Lu%20Cheng.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="uPughjrTTddUflfuajdcOWE" playOrder="30">
+      <navLabel>
+        <text>05-申命记</text>
+      </navLabel>
+      <content src="0-README4.html"/>
+      <navPoint id="umfLvJFoWsD3f8vRa6NTDv9" playOrder="31">
+        <navLabel>
+          <text>&lt;申图01&gt;应许之地全图</text>
+        </navLabel>
+        <content src="_Shen%20Tu%2001_Ying%20Xu%20Zhi%20Di%20Quan%20Tu.html"/>
+      </navPoint>
+      <navPoint id="unbsZfYN8tcwyDkQjbQKYK3" playOrder="32">
+        <navLabel>
+          <text>&lt;申图02&gt;进迦南和分地给两个半支派</text>
+        </navLabel>
+        <content src="_Shen%20Tu%2002_Jin%20Jia%20Nan%20He%20Fen%20Di%20Gei%20Liang%20Ge%20Ban%20Zhi%20Pai.html"/>
+      </navPoint>
+      <navPoint id="usDcDQdGih5HAD2b6tNvvf8" playOrder="33">
+        <navLabel>
+          <text>&lt;申图03&gt;摩西观看迦南地后去世和埋葬</text>
+        </navLabel>
+        <content src="_Shen%20Tu%2003_Mo%20Xi%20Guan%20Kan%20Jia%20Nan%20Di%20Hou%20Qu%20Shi%20He%20Mai%20Zang.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="ufehSmbKZFuMPPBzuJSnad9" playOrder="34">
+      <navLabel>
+        <text>06-约书亚记</text>
+      </navLabel>
+      <content src="0-README5.html"/>
+      <navPoint id="uq2ZbuLqViESUkp6catce38" playOrder="35">
+        <navLabel>
+          <text>&lt;书图01&gt;过约但河及征服南方诸王</text>
+        </navLabel>
+        <content src="_Shu%20Tu%2001_Guo%20Yue%20Dan%20He%20Ji%20Zheng%20Fu%20Nan%20Fang%20Zhu%20Wang.html"/>
+      </navPoint>
+      <navPoint id="uWbZU8CNEyxQrIbySyDZkz4" playOrder="36">
+        <navLabel>
+          <text>&lt;书图02&gt;征服北方诸王</text>
+        </navLabel>
+        <content src="_Shu%20Tu%2002_Zheng%20Fu%20Bei%20Fang%20Zhu%20Wang.html"/>
+      </navPoint>
+      <navPoint id="uXVFrBItA3fCyCeKLPv8Yi5" playOrder="37">
+        <navLabel>
+          <text>&lt;书图03&gt;已得和未得之地</text>
+        </navLabel>
+        <content src="_Shu%20Tu%2003_Yi%20De%20He%20Wei%20De%20Zhi%20Di.html"/>
+      </navPoint>
+      <navPoint id="uDjsdnSltXZthlxpbjCtvfG" playOrder="38">
+        <navLabel>
+          <text>&lt;书图04&gt;以色列人所征服的三十三个王</text>
+        </navLabel>
+        <content src="_Shu%20Tu%2004_Yi%20Se%20Lie%20Ren%20Suo%20Zheng%20Fu%20De%20San%20Shi%20San%20Ge%20Wang.html"/>
+      </navPoint>
+      <navPoint id="ud9p8KSV7rqa6ZjTKcyzXq6" playOrder="39">
+        <navLabel>
+          <text>&lt;书图05&gt;约但河东两个半支派的地业</text>
+        </navLabel>
+        <content src="_Shu%20Tu%2005_Yue%20Dan%20He%20Dong%20Liang%20Ge%20Ban%20Zhi%20Pai%20De%20Di%20Ye.html"/>
+      </navPoint>
+      <navPoint id="u9J9XFdRVigBP3uHbJ6VNjB" playOrder="40">
+        <navLabel>
+          <text>&lt;书图06&gt;犹大支派的地业</text>
+        </navLabel>
+        <content src="_Shu%20Tu%2006_You%20Da%20Zhi%20Pai%20De%20Di%20Ye.html"/>
+      </navPoint>
+      <navPoint id="uek7kHKiqaCPi8bCxU7D5B4" playOrder="41">
+        <navLabel>
+          <text>&lt;书图07&gt;以法莲和玛拿西西半支派的地业</text>
+        </navLabel>
+        <content src="_Shu%20Tu%2007_Yi%20Fa%20Lian%20He%20Ma%20Na%20Xi%20Xi%20Ban%20Zhi%20Pai%20De%20Di%20Ye.html"/>
+      </navPoint>
+      <navPoint id="unMYNEqzB7gOOqYzVwiFQF5" playOrder="42">
+        <navLabel>
+          <text>&lt;书图08&gt;便雅悯、但和以法莲的地业</text>
+        </navLabel>
+        <content src="_Shu%20Tu%2008_Bian%20Ya%20Min%20%2c%20Dan%20He%20Yi%20Fa%20Lian%20De%20Di%20Ye.html"/>
+      </navPoint>
+      <navPoint id="uu6JCKZtbQPdndGRVGnb279" playOrder="43">
+        <navLabel>
+          <text>&lt;书图09&gt;西缅支派的地业</text>
+        </navLabel>
+        <content src="_Shu%20Tu%2009_Xi%20Mian%20Zhi%20Pai%20De%20Di%20Ye.html"/>
+      </navPoint>
+      <navPoint id="ucJihkjM4KRYO5MjGTt9GyD" playOrder="44">
+        <navLabel>
+          <text>&lt;书图10&gt;西布伦、以萨迦、亚设、拿弗他利等支派的地业</text>
+        </navLabel>
+        <content src="_Shu%20Tu%2010_Xi%20Bu%20Lun%20%2c%20Yi%20Sa%20Jia%20%2c%20Ya%20She%20%2c%20Na%20Fu%20Ta%20Li%20Deng%20Zhi%20Pai%20De%20Di%20Ye.html"/>
+      </navPoint>
+      <navPoint id="utXPotnDzSFQmMdP2hRmXBH" playOrder="45">
+        <navLabel>
+          <text>&lt;书图11&gt;利未支派的地业</text>
+        </navLabel>
+        <content src="_Shu%20Tu%2011_Li%20Wei%20Zhi%20Pai%20De%20Di%20Ye.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="ukLFhWsPaEIXjJTXgNOMUjA" playOrder="46">
+      <navLabel>
+        <text>07-士师记</text>
+      </navLabel>
+      <content src="0-README6.html"/>
+      <navPoint id="u7bZR7qhqXBNFNdVXfx2JoB" playOrder="47">
+        <navLabel>
+          <text>&lt;士图01&gt;攻取南部之地</text>
+        </navLabel>
+        <content src="_Shi%20Tu%2001_Gong%20Qu%20Nan%20Bu%20Zhi%20Di.html"/>
+      </navPoint>
+      <navPoint id="uKShfkrnpHVMp9JI3eRcET2" playOrder="48">
+        <navLabel>
+          <text>&lt;士图02&gt;未得之地</text>
+        </navLabel>
+        <content src="_Shi%20Tu%2002_Wei%20De%20Zhi%20Di.html"/>
+      </navPoint>
+      <navPoint id="upFau8QzzxN8VO4WQETYTn3" playOrder="49">
+        <navLabel>
+          <text>&lt;士图03&gt;俄陀聂、以笏、底波拉</text>
+        </navLabel>
+        <content src="_Shi%20Tu%2003_E%20Tuo%20Nie%20%2c%20Yi%20Hu%20%2c%20Di%20Bo%20La.html"/>
+      </navPoint>
+      <navPoint id="umDtGQALRZGLAdmiI8NAlq9" playOrder="50">
+        <navLabel>
+          <text>&lt;士图04&gt;基甸、亚比米勒、陀拉</text>
+        </navLabel>
+        <content src="_Shi%20Tu%2004_Ji%20Dian%20%2c%20Ya%20Bi%20Mi%20Le%20%2c%20Tuo%20La.html"/>
+      </navPoint>
+      <navPoint id="unTcQCYbIdwktvHPIeOSF6C" playOrder="51">
+        <navLabel>
+          <text>&lt;士图05&gt;睚珥、耶弗他</text>
+        </navLabel>
+        <content src="_Shi%20Tu%2005_Yai%20Er%20%2c%20Ye%20Fu%20Ta.html"/>
+      </navPoint>
+      <navPoint id="ux5SjPIULELpTblcrZ7pQuA" playOrder="52">
+        <navLabel>
+          <text>&lt;士图06&gt;参孙</text>
+        </navLabel>
+        <content src="_Shi%20Tu%2006_Can%20Sun.html"/>
+      </navPoint>
+      <navPoint id="ubmJCFdwngs4K3MCVo7JvtA" playOrder="53">
+        <navLabel>
+          <text>&lt;士图07&gt;以比赞、以伦、押顿</text>
+        </navLabel>
+        <content src="_Shi%20Tu%2007_Yi%20Bi%20Zan%20%2c%20Yi%20Lun%20%2c%20Ya%20Dun.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="uOeDa69TaLmAl5te8Ju6lF9" playOrder="54">
+      <navLabel>
+        <text>08-撒母耳记上</text>
+      </navLabel>
+      <content src="0-README7.html"/>
+      <navPoint id="uD652fWWApwitnRQA3DBPr7" playOrder="55">
+        <navLabel>
+          <text>&lt;撒上图01&gt;撒母耳任以色列的先知</text>
+        </navLabel>
+        <content src="_Sa%20Shang%20Tu%2001_Sa%20Mu%20Er%20Ren%20Yi%20Se%20Lie%20De%20Xian%20Zhi.html"/>
+      </navPoint>
+      <navPoint id="uLKJNnOYjZH7zmKi4jgTtfD" playOrder="56">
+        <navLabel>
+          <text>&lt;撒上图02&gt;撒母耳膏扫罗</text>
+        </navLabel>
+        <content src="_Sa%20Shang%20Tu%2002_Sa%20Mu%20Er%20Gao%20Sao%20Luo.html"/>
+      </navPoint>
+      <navPoint id="uwkQYjUN8rVjJqFhKEEW5uB" playOrder="57">
+        <navLabel>
+          <text>&lt;撒上图03&gt;扫罗攻打亚扪人</text>
+        </navLabel>
+        <content src="_Sa%20Shang%20Tu%2003_Sao%20Luo%20Gong%20Da%20Ya%20Men%20Ren.html"/>
+      </navPoint>
+      <navPoint id="upxEmmctS2qtZ9T8UFwxuTG" playOrder="58">
+        <navLabel>
+          <text>&lt;撒上图04&gt;扫罗和非利士人的战争</text>
+        </navLabel>
+        <content src="_Sa%20Shang%20Tu%2004_Sao%20Luo%20He%20Fei%20Li%20Shi%20Ren%20De%20Zhan%20Zheng.html"/>
+      </navPoint>
+      <navPoint id="udUGRxp4Xdzv45vy2Kq9MDB" playOrder="59">
+        <navLabel>
+          <text>&lt;撒上图05&gt;以色列人在扫罗时代的疆土</text>
+        </navLabel>
+        <content src="_Sa%20Shang%20Tu%2005_Yi%20Se%20Lie%20Ren%20Zai%20Sao%20Luo%20Shi%20Dai%20De%20Jiang%20Tu.html"/>
+      </navPoint>
+      <navPoint id="ubgGwzqTaMpwwGmKaBKcDVB" playOrder="60">
+        <navLabel>
+          <text>&lt;撒上图06&gt;扫罗攻打亚玛力人、大卫杀歌利亚</text>
+        </navLabel>
+        <content src="_Sa%20Shang%20Tu%2006_Sao%20Luo%20Gong%20Da%20Ya%20Ma%20Li%20Ren%20%2c%20Da%20Wei%20Sha%20Ge%20Li%20Ya.html"/>
+      </navPoint>
+      <navPoint id="u9TuOQJixDKQHWFOPGi3krC" playOrder="61">
+        <navLabel>
+          <text>&lt;撒上图07&gt;大卫逃避扫罗的追杀</text>
+        </navLabel>
+        <content src="_Sa%20Shang%20Tu%2007_Da%20Wei%20Tao%20Bi%20Sao%20Luo%20De%20Zhui%20Sha.html"/>
+      </navPoint>
+      <navPoint id="uuTy4Ywkg3eQsSTGzflQGy3" playOrder="62">
+        <navLabel>
+          <text>&lt;撒上图08&gt;大卫追击亚玛力人</text>
+        </navLabel>
+        <content src="_Sa%20Shang%20Tu%2008_Da%20Wei%20Zhui%20Ji%20Ya%20Ma%20Li%20Ren.html"/>
+      </navPoint>
+      <navPoint id="uKWqpUlmAx2iqnXWFuzES89" playOrder="63">
+        <navLabel>
+          <text>&lt;撒上图09&gt;扫罗被非利士人杀害</text>
+        </navLabel>
+        <content src="_Sa%20Shang%20Tu%2009_Sao%20Luo%20Bei%20Fei%20Li%20Shi%20Ren%20Sha%20Hai.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="ujMImVtGRtAbdELFnY8Xsb7" playOrder="64">
+      <navLabel>
+        <text>09-撒母耳记下</text>
+      </navLabel>
+      <content src="0-README8.html"/>
+      <navPoint id="uYjDeglsoDuGisDVRvNa2JF" playOrder="65">
+        <navLabel>
+          <text>&lt;撒下图01&gt;大卫王在希伯仑作犹大和以色列的王</text>
+        </navLabel>
+        <content src="_Sa%20Xia%20Tu%2001_Da%20Wei%20Wang%20Zai%20Xi%20Bo%20Lun%20Zuo%20You%20Da%20He%20Yi%20Se%20Lie%20De%20Wang.html"/>
+      </navPoint>
+      <navPoint id="u6RNjoAALakXAinftN5IIYF" playOrder="66">
+        <navLabel>
+          <text>&lt;撒下图02&gt;大卫攻取耶路撒冷作为首都，非利士人两次攻打都被击败</text>
+        </navLabel>
+        <content src="_Sa%20Xia%20Tu%2002_Da%20Wei%20Gong%20Qu%20Ye%20Lu%20Sa%20Leng%20Zuo%20Wei%20Shou%20Du%20%2cFei%20Li%20Shi%20Ren%20Liang%20Ci%20Gong%20Da%20Du%20Bei%20Ji%20Bai.html"/>
+      </navPoint>
+      <navPoint id="uHswTVk7w4MqrOxN9Ktc5JH" playOrder="67">
+        <navLabel>
+          <text>&lt;撒下图03&gt;大卫王的战功</text>
+        </navLabel>
+        <content src="_Sa%20Xia%20Tu%2003_Da%20Wei%20Wang%20De%20Zhan%20Gong.html"/>
+      </navPoint>
+      <navPoint id="urhbt6NiX3EaUadNTalLjxC" playOrder="68">
+        <navLabel>
+          <text>&lt;撒下图04&gt;押沙龙谋反及被诛</text>
+        </navLabel>
+        <content src="_Sa%20Xia%20Tu%2004_Ya%20Sha%20Long%20Mou%20Fan%20Ji%20Bei%20Zhu.html"/>
+      </navPoint>
+      <navPoint id="uqr4N4OABhIYAfcXM8jErRD" playOrder="69">
+        <navLabel>
+          <text>&lt;撒下图05&gt;示巴叛变和约押点数以色列人</text>
+        </navLabel>
+        <content src="_Sa%20Xia%20Tu%2005_Shi%20Ba%20Pan%20Bian%20He%20Yue%20Ya%20Dian%20Shu%20Yi%20Se%20Lie%20Ren.html"/>
+      </navPoint>
+      <navPoint id="u8UAs83rqVnGk7ZFARMEfW8" playOrder="70">
+        <navLabel>
+          <text>&lt;撒下图06&gt;大卫王的勇士</text>
+        </navLabel>
+        <content src="_Sa%20Xia%20Tu%2006_Da%20Wei%20Wang%20De%20Yong%20Shi.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="uUFENnQ6OxNkn5296Rrdf2A" playOrder="71">
+      <navLabel>
+        <text>10-列王纪上</text>
+      </navLabel>
+      <content src="0-README9.html"/>
+      <navPoint id="uqgZmQkBN4sa3orHX4WEDK2" playOrder="72">
+        <navLabel>
+          <text>&lt;王上图01&gt;耶路撒冷城和建圣殿</text>
+        </navLabel>
+        <content src="_Wang%20Shang%20Tu%2001_Ye%20Lu%20Sa%20Leng%20Cheng%20He%20Jian%20Sheng%20Dian.html"/>
+      </navPoint>
+      <navPoint id="uOG7Aba6iOqi9Xi7MnygOY7" playOrder="73">
+        <navLabel>
+          <text>&lt;王上图02&gt;零星事件</text>
+        </navLabel>
+        <content src="_Wang%20Shang%20Tu%2002_Ling%20Xing%20Shi%20Jian.html"/>
+      </navPoint>
+      <navPoint id="uJdLCz2pNSkIz349guM4LMG" playOrder="74">
+        <navLabel>
+          <text>&lt;王上图03&gt;所罗门王的行政区</text>
+        </navLabel>
+        <content src="_Wang%20Shang%20Tu%2003_Suo%20Luo%20Men%20Wang%20De%20Xing%20Zheng%20Qu.html"/>
+      </navPoint>
+      <navPoint id="ucUKffxkpXa9O9Pfa9jYEt3" playOrder="75">
+        <navLabel>
+          <text>&lt;王上图04&gt;所罗门王的疆域和属国</text>
+        </navLabel>
+        <content src="_Wang%20Shang%20Tu%2004_Suo%20Luo%20Men%20Wang%20De%20Jiang%20Yu%20He%20Shu%20Guo.html"/>
+      </navPoint>
+      <navPoint id="ucnmv2r6W8fCo7MzM8xEHZC" playOrder="76">
+        <navLabel>
+          <text>&lt;王上图05&gt;王国分裂</text>
+        </navLabel>
+        <content src="_Wang%20Shang%20Tu%2005_Wang%20Guo%20Fen%20Lie.html"/>
+      </navPoint>
+      <navPoint id="u3k2dgjRvvzoAtC8e3Fu4v2" playOrder="77">
+        <navLabel>
+          <text>&lt;王上图06&gt;南北两国对峙</text>
+        </navLabel>
+        <content src="_Wang%20Shang%20Tu%2006_Nan%20Bei%20Liang%20Guo%20Dui%20Zhi.html"/>
+      </navPoint>
+      <navPoint id="u4aYBoMJnGND8Fqwz84uUYG" playOrder="78">
+        <navLabel>
+          <text>&lt;王上图07&gt;先知以利亚</text>
+        </navLabel>
+        <content src="_Wang%20Shang%20Tu%2007_Xian%20Zhi%20Yi%20Li%20Ya.html"/>
+      </navPoint>
+      <navPoint id="uHCfltBjSEM9igHVdMZUFf4" playOrder="79">
+        <navLabel>
+          <text>&lt;王上图08&gt;两国和好时期</text>
+        </navLabel>
+        <content src="_Wang%20Shang%20Tu%2008_Liang%20Guo%20He%20Hao%20Shi%20Qi.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="uejluS9gvLzhJOG6C3HbM4A" playOrder="80">
+      <navLabel>
+        <text>11-列王纪下</text>
+      </navLabel>
+      <content src="0-README10.html"/>
+      <navPoint id="uWut3AML28Gqdjbv3iKrIND" playOrder="81">
+        <navLabel>
+          <text>&lt;王下图01&gt;先知以利沙</text>
+        </navLabel>
+        <content src="_Wang%20Xia%20Tu%2001_Xian%20Zhi%20Yi%20Li%20Sha.html"/>
+      </navPoint>
+      <navPoint id="uTuJULNvOg9TarK3PYD6af6" playOrder="82">
+        <navLabel>
+          <text>&lt;王下图02&gt;南北两国衰微</text>
+        </navLabel>
+        <content src="_Wang%20Xia%20Tu%2002_Nan%20Bei%20Liang%20Guo%20Shuai%20Wei.html"/>
+      </navPoint>
+      <navPoint id="uvqMTYj2clLeNolFezoivvD" playOrder="83">
+        <navLabel>
+          <text>&lt;王下图03&gt;极盛时期</text>
+        </navLabel>
+        <content src="_Wang%20Xia%20Tu%2003_Ji%20Sheng%20Shi%20Qi.html"/>
+      </navPoint>
+      <navPoint id="uwvNtkJtJLCBPAlGkShSYfE" playOrder="84">
+        <navLabel>
+          <text>&lt;王下图04&gt;以色列国覆亡</text>
+        </navLabel>
+        <content src="_Wang%20Xia%20Tu%2004_Yi%20Se%20Lie%20Guo%20Fu%20Wang.html"/>
+      </navPoint>
+      <navPoint id="u8na93fiEDIHalhoAgOaYtB" playOrder="85">
+        <navLabel>
+          <text>&lt;王下图05&gt;犹大国受亚述之欺压</text>
+        </navLabel>
+        <content src="_Wang%20Xia%20Tu%2005_You%20Da%20Guo%20Shou%20Ya%20Shu%20Zhi%20Qi%20Ya.html"/>
+      </navPoint>
+      <navPoint id="ulUVrn9X4fnrTXARTRtmCNA" playOrder="86">
+        <navLabel>
+          <text>&lt;王下图06&gt;犹大国受埃及和巴比伦之欺压</text>
+        </navLabel>
+        <content src="_Wang%20Xia%20Tu%2006_You%20Da%20Guo%20Shou%20Ai%20Ji%20He%20Ba%20Bi%20Lun%20Zhi%20Qi%20Ya.html"/>
+      </navPoint>
+      <navPoint id="uoHVvnmF5SrvpdNPdj7dqwD" playOrder="87">
+        <navLabel>
+          <text>&lt;王下图07&gt;亚述帝国</text>
+        </navLabel>
+        <content src="_Wang%20Xia%20Tu%2007_Ya%20Shu%20Di%20Guo.html"/>
+      </navPoint>
+      <navPoint id="uotNlTuwHNqnmf5YTrpyvEB" playOrder="88">
+        <navLabel>
+          <text>&lt;王下图08&gt;巴比伦帝国</text>
+        </navLabel>
+        <content src="_Wang%20Xia%20Tu%2008_Ba%20Bi%20Lun%20Di%20Guo.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="uySKX59pUtPnTraHGvG77I6" playOrder="89">
+      <navLabel>
+        <text>12-历代志上</text>
+      </navLabel>
+      <content src="0-README11.html"/>
+      <navPoint id="uMj4pW9rvZupbKVdbP4nYh6" playOrder="90">
+        <navLabel>
+          <text>&lt;代上图01&gt;以色列地中之零星地名</text>
+        </navLabel>
+        <content src="_Dai%20Shang%20Tu%2001_Yi%20Se%20Lie%20Di%20Zhong%20Zhi%20Ling%20Xing%20Di%20Ming.html"/>
+      </navPoint>
+      <navPoint id="uPI9VRzNOCtgUTF8Kdac5fG" playOrder="91">
+        <navLabel>
+          <text>&lt;代上图02&gt;迦勒的子孙</text>
+        </navLabel>
+        <content src="_Dai%20Shang%20Tu%2002_Jia%20Le%20De%20Zi%20Sun.html"/>
+      </navPoint>
+      <navPoint id="uevdNv3Q3C6tCkzonxKiai8" playOrder="92">
+        <navLabel>
+          <text>&lt;代上图03&gt;西缅支派的领土</text>
+        </navLabel>
+        <content src="_Dai%20Shang%20Tu%2003_Xi%20Mian%20Zhi%20Pai%20De%20Ling%20Tu.html"/>
+      </navPoint>
+      <navPoint id="uwxJs8pfuZ3IHeaujd3BlN5" playOrder="93">
+        <navLabel>
+          <text>&lt;代上图04&gt;河东两个半支派</text>
+        </navLabel>
+        <content src="_Dai%20Shang%20Tu%2004_He%20Dong%20Liang%20Ge%20Ban%20Zhi%20Pai.html"/>
+      </navPoint>
+      <navPoint id="uzUWaK27BeVkFCEk7Y3LWJG" playOrder="94">
+        <navLabel>
+          <text>&lt;代上图05&gt;以法莲支派占领之疆域</text>
+        </navLabel>
+        <content src="_Dai%20Shang%20Tu%2005_Yi%20Fa%20Lian%20Zhi%20Pai%20Zhan%20Ling%20Zhi%20Jiang%20Yu.html"/>
+      </navPoint>
+      <navPoint id="uTaWGE7UZBAXgx8QzjKMD6G" playOrder="95">
+        <navLabel>
+          <text>&lt;代上图06&gt;便雅悯的领土</text>
+        </navLabel>
+        <content src="_Dai%20Shang%20Tu%2006_Bian%20Ya%20Min%20De%20Ling%20Tu.html"/>
+      </navPoint>
+      <navPoint id="uXZTmfjmX2iQGnslkZx9Mj5" playOrder="96">
+        <navLabel>
+          <text>&lt;代上图07&gt;大卫王班长的祖籍</text>
+        </navLabel>
+        <content src="_Dai%20Shang%20Tu%2007_Da%20Wei%20Wang%20Ban%20Chang%20De%20Zu%20Ji.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="uiR632SjIhVx3qW6jX6hlz3" playOrder="97">
+      <navLabel>
+        <text>13-历代志下</text>
+      </navLabel>
+      <content src="0-README12.html"/>
+      <navPoint id="uHmD4uNnzNOXaXoKKmelEm5" playOrder="98">
+        <navLabel>
+          <text>&lt;代下图01&gt;以色列地内的零星地名</text>
+        </navLabel>
+        <content src="_Dai%20Xia%20Tu%2001_Yi%20Se%20Lie%20Di%20Nei%20De%20Ling%20Xing%20Di%20Ming.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="uMD8f3RsUh3WhUdfhFzz3dF" playOrder="99">
+      <navLabel>
+        <text>14-以斯拉记</text>
+      </navLabel>
+      <content src="0-README13.html"/>
+      <navPoint id="u3fEgeinHg2HY59FPQj5faE" playOrder="100">
+        <navLabel>
+          <text>&lt;拉图01&gt;波斯帝国</text>
+        </navLabel>
+        <content src="_La%20Tu%2001_Bo%20Si%20Di%20Guo.html"/>
+      </navPoint>
+      <navPoint id="uHZnqmWZx8SfMYxwBzIhJi3" playOrder="101">
+        <navLabel>
+          <text>&lt;拉图02&gt;回国各以色列人的祖籍</text>
+        </navLabel>
+        <content src="_La%20Tu%2002_Hui%20Guo%20Ge%20Yi%20Se%20Lie%20Ren%20De%20Zu%20Ji.html"/>
+      </navPoint>
+      <navPoint id="uBpLTh5SMXA3Yd6WhdyFheB" playOrder="102">
+        <navLabel>
+          <text>&lt;拉图03&gt;其他以色列地之各城</text>
+        </navLabel>
+        <content src="_La%20Tu%2003_Qi%20Ta%20Yi%20Se%20Lie%20Di%20Zhi%20Ge%20Cheng.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="u9AU4yOpG98PMru4xlK7dg8" playOrder="103">
+      <navLabel>
+        <text>15-尼希米记</text>
+      </navLabel>
+      <content src="0-README14.html"/>
+      <navPoint id="uZ5OuivJvtlu5uBTImjZtD6" playOrder="104">
+        <navLabel>
+          <text>&lt;尼图01&gt;尼希米所筑之城墙</text>
+        </navLabel>
+        <content src="_Ni%20Tu%2001_Ni%20Xi%20Mi%20Suo%20Zhu%20Zhi%20Cheng%20Qiang.html"/>
+      </navPoint>
+      <navPoint id="ubydNyKtfSEHP9CgEkowWRH" playOrder="105">
+        <navLabel>
+          <text>&lt;尼图02&gt;筑城人和唱歌人所居之城</text>
+        </navLabel>
+        <content src="_Ni%20Tu%2002_Zhu%20Cheng%20Ren%20He%20Chang%20Ge%20Ren%20Suo%20Ju%20Zhi%20Cheng.html"/>
+      </navPoint>
+      <navPoint id="uUPiheMjh3CAzNsCzte3XvB" playOrder="106">
+        <navLabel>
+          <text>&lt;尼图03&gt;犹大人和便雅悯人所居之城</text>
+        </navLabel>
+        <content src="_Ni%20Tu%2003_You%20Da%20Ren%20He%20Bian%20Ya%20Min%20Ren%20Suo%20Ju%20Zhi%20Cheng.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="uDIDaJrqvIm5gUX7XStrpQC" playOrder="107">
+      <navLabel>
+        <text>16-以斯帖记</text>
+      </navLabel>
+      <content src="0-README15.html"/>
+      <navPoint id="ulkQ7ztPIBpfu7boOyowo23" playOrder="108">
+        <navLabel>
+          <text>&lt;斯图01&gt;以斯帖记</text>
+        </navLabel>
+        <content src="_Si%20Tu%2001_Yi%20Si%20Tie%20Ji.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="unu7GKlb23IqTiysWxTBqk4" playOrder="109">
+      <navLabel>
+        <text>17-约伯记</text>
+      </navLabel>
+      <content src="0-README16.html"/>
+      <navPoint id="uuxenPlZVxEP7VgKxkrxeU6" playOrder="110">
+        <navLabel>
+          <text>&lt;伯图01&gt;约伯的故事</text>
+        </navLabel>
+        <content src="_Bo%20Tu%2001_Yue%20Bo%20De%20Gu%20Shi.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="u9XxsOlTzDXZRUtgJFVKmVC" playOrder="111">
+      <navLabel>
+        <text>18-诗篇</text>
+      </navLabel>
+      <content src="0-README17.html"/>
+      <navPoint id="uQQzMngjKij6pTWwhH3O549" playOrder="112">
+        <navLabel>
+          <text>&lt;诗图00&gt;诗篇</text>
+        </navLabel>
+        <content src="_Shi%20Tu%2000_Shi%20Pian.html"/>
+      </navPoint>
+      <navPoint id="uzYPimyBnp2oP3w7iAq9KJ4" playOrder="113">
+        <navLabel>
+          <text>&lt;诗图01&gt;诗篇中的以色列各地</text>
+        </navLabel>
+        <content src="_Shi%20Tu%2001_Shi%20Pian%20Zhong%20De%20Yi%20Se%20Lie%20Ge%20Di.html"/>
+      </navPoint>
+      <navPoint id="uwYYBdc63pT273qMButSdUH" playOrder="114">
+        <navLabel>
+          <text>&lt;诗图02&gt;诗篇中的以色列地之外各地</text>
+        </navLabel>
+        <content src="_Shi%20Tu%2002_Shi%20Pian%20Zhong%20De%20Yi%20Se%20Lie%20Di%20Zhi%20Wai%20Ge%20Di.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="uPzrK2woaYnywKWF3dLssrB" playOrder="115">
+      <navLabel>
+        <text>19-雅歌</text>
+      </navLabel>
+      <content src="0-README18.html"/>
+      <navPoint id="uBgq2zVst4EH674iwVsSNQ4" playOrder="116">
+        <navLabel>
+          <text>&lt;歌图00&gt;雅歌</text>
+        </navLabel>
+        <content src="_Ge%20Tu%2000_Ya%20Ge.html"/>
+      </navPoint>
+      <navPoint id="uyMNzlhve6FnSmVP7DGT4L8" playOrder="117">
+        <navLabel>
+          <text>&lt;歌图01&gt;雅歌中的以色列各地</text>
+        </navLabel>
+        <content src="_Ge%20Tu%2001_Ya%20Ge%20Zhong%20De%20Yi%20Se%20Lie%20Ge%20Di.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="uwsGpQGxDMEQjvk7PpvZkLC" playOrder="118">
+      <navLabel>
+        <text>20-以赛亚书</text>
+      </navLabel>
+      <content src="0-README19.html"/>
+      <navPoint id="uuoqGgmPEaGv4DOtOUfpz66" playOrder="119">
+        <navLabel>
+          <text>&lt;赛图01&gt;以赛亚书中的以色列各地</text>
+        </navLabel>
+        <content src="_Sai%20Tu%2001_Yi%20Sai%20Ya%20Shu%20Zhong%20De%20Yi%20Se%20Lie%20Ge%20Di.html"/>
+      </navPoint>
+      <navPoint id="uObUzhwDZbUKSoX8iqasty4" playOrder="120">
+        <navLabel>
+          <text>&lt;赛图02&gt;以赛亚书中的以色列地之外各地</text>
+        </navLabel>
+        <content src="_Sai%20Tu%2002_Yi%20Sai%20Ya%20Shu%20Zhong%20De%20Yi%20Se%20Lie%20Di%20Zhi%20Wai%20Ge%20Di.html"/>
+      </navPoint>
+      <navPoint id="uwWnQcX455GegFrpmetGneF" playOrder="121">
+        <navLabel>
+          <text>&lt;赛图03&gt;亚述攻打犹大</text>
+        </navLabel>
+        <content src="_Sai%20Tu%2003_Ya%20Shu%20Gong%20Da%20You%20Da.html"/>
+      </navPoint>
+      <navPoint id="ur3sEWayeNpkiwOX9SxTRO5" playOrder="122">
+        <navLabel>
+          <text>&lt;赛图04&gt;摩押地图</text>
+        </navLabel>
+        <content src="_Sai%20Tu%2004_Mo%20Ya%20Di%20Tu.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="uMtMNMpnWirC68K9bECpuG8" playOrder="123">
+      <navLabel>
+        <text>21-耶利米书</text>
+      </navLabel>
+      <content src="0-README20.html"/>
+      <navPoint id="uEpIYs2mdGqHZa3KxUURAJ7" playOrder="124">
+        <navLabel>
+          <text>&lt;耶图01&gt;耶利米书中的以色列各地</text>
+        </navLabel>
+        <content src="_Ye%20Tu%2001_Ye%20Li%20Mi%20Shu%20Zhong%20De%20Yi%20Se%20Lie%20Ge%20Di.html"/>
+      </navPoint>
+      <navPoint id="uXA56lqcQAb8It4kHPsDpx5" playOrder="125">
+        <navLabel>
+          <text>&lt;耶图02&gt;耶利米书中的以色列地之外各地</text>
+        </navLabel>
+        <content src="_Ye%20Tu%2002_Ye%20Li%20Mi%20Shu%20Zhong%20De%20Yi%20Se%20Lie%20Di%20Zhi%20Wai%20Ge%20Di.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="uQQPZEvKSPbmxlvKnmoEpL4" playOrder="126">
+      <navLabel>
+        <text>22-以西结书</text>
+      </navLabel>
+      <content src="0-README21.html"/>
+      <navPoint id="uXThSzD5lEkPdbkosZdWGAA" playOrder="127">
+        <navLabel>
+          <text>&lt;结图01&gt;以西结书中的以色列各地</text>
+        </navLabel>
+        <content src="_Jie%20Tu%2001_Yi%20Xi%20Jie%20Shu%20Zhong%20De%20Yi%20Se%20Lie%20Ge%20Di.html"/>
+      </navPoint>
+      <navPoint id="uasb7YvCLtrMNryvPCqP9L6" playOrder="128">
+        <navLabel>
+          <text>&lt;结图02&gt;以西结书中的以色列地之外各地</text>
+        </navLabel>
+        <content src="_Jie%20Tu%2002_Yi%20Xi%20Jie%20Shu%20Zhong%20De%20Yi%20Se%20Lie%20Di%20Zhi%20Wai%20Ge%20Di.html"/>
+      </navPoint>
+      <navPoint id="uwBAZ3hQloeBOgM5DVMeScB" playOrder="129">
+        <navLabel>
+          <text>&lt;结图03&gt;以西结预言中的应许之地</text>
+        </navLabel>
+        <content src="_Jie%20Tu%2003_Yi%20Xi%20Jie%20Yu%20Yan%20Zhong%20De%20Ying%20Xu%20Zhi%20Di.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="uLEqIDK9xz44ki7AKvh4OMD" playOrder="130">
+      <navLabel>
+        <text>23-但以理书</text>
+      </navLabel>
+      <content src="0-README22.html"/>
+      <navPoint id="u7XoYwcJPeu35J93KDSUCMA" playOrder="131">
+        <navLabel>
+          <text>&lt;但图00&gt;但以理书</text>
+        </navLabel>
+        <content src="_Dan%20Tu%2000_Dan%20Yi%20Li%20Shu.html"/>
+      </navPoint>
+      <navPoint id="u4lsSv3Z3ymHgm5kFRjtMYC" playOrder="132">
+        <navLabel>
+          <text>&lt;但图01&gt;小先知书中的以色列各地</text>
+        </navLabel>
+        <content src="_Dan%20Tu%2001_Xiao%20Xian%20Zhi%20Shu%20Zhong%20De%20Yi%20Se%20Lie%20Ge%20Di.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="uza7r8ErtUYL3JM2Yq7VIK7" playOrder="133">
+      <navLabel>
+        <text>24-何西阿书</text>
+      </navLabel>
+      <content src="0-README23.html"/>
+      <navPoint id="uCAIchaujLqvzwTrphQC9Y7" playOrder="134">
+        <navLabel>
+          <text>&lt;何图00&gt;何西阿书</text>
+        </navLabel>
+        <content src="_He%20Tu%2000_He%20Xi%20A%20Shu.html"/>
+      </navPoint>
+      <navPoint id="ubo9OutOUWuwdScnBPCDhr3" playOrder="135">
+        <navLabel>
+          <text>&lt;何图01&gt;小先知书中的以色列地之外各地</text>
+        </navLabel>
+        <content src="_He%20Tu%2001_Xiao%20Xian%20Zhi%20Shu%20Zhong%20De%20Yi%20Se%20Lie%20Di%20Zhi%20Wai%20Ge%20Di.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="uG2GxkJr83vy7QJ3GxKpu45" playOrder="136">
+      <navLabel>
+        <text>25-旧约其他先知书</text>
+      </navLabel>
+      <content src="0-README24.html"/>
+      <navPoint id="uNaT7XNI8LlQNtQ7uliImsA" playOrder="137">
+        <navLabel>
+          <text>旧约其他先知书</text>
+        </navLabel>
+        <content src="Jiu%20Yue%20Qi%20Ta%20Xian%20Zhi%20Shu.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="uFvZPfXRcidLbKgZlIhaYf3" playOrder="138">
+      <navLabel>
+        <text>26-新约总图</text>
+      </navLabel>
+      <content src="0-README25.html"/>
+      <navPoint id="uRfLkPlxiCvAlFFtqlnaC69" playOrder="139">
+        <navLabel>
+          <text>&lt;新图01&gt;主前四年到主后三十年间的巴勒斯坦</text>
+        </navLabel>
+        <content src="_Xin%20Tu%2001_Zhu%20Qian%20Si%20Nian%20Dao%20Zhu%20Hou%20San%20Shi%20Nian%20Jian%20De%20Ba%20Le%20Si%20Tan.html"/>
+      </navPoint>
+      <navPoint id="uOwB9YaYsMDdM7YXNlqvk3C" playOrder="140">
+        <navLabel>
+          <text>&lt;新图02&gt;新约时代的罗马帝国</text>
+        </navLabel>
+        <content src="_Xin%20Tu%2002_Xin%20Yue%20Shi%20Dai%20De%20Luo%20Ma%20Di%20Guo.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="uS5SFlvMUjIIs4pdUukpaJE" playOrder="141">
+      <navLabel>
+        <text>27-四福音</text>
+      </navLabel>
+      <content src="0-README26.html"/>
+      <navPoint id="uWrAH8EJMjgmnGjAHIN8Wa5" playOrder="142">
+        <navLabel>
+          <text>&lt;福图01&gt;主诞生和幼年</text>
+        </navLabel>
+        <content src="_Fu%20Tu%2001_Zhu%20Dan%20Sheng%20He%20You%20Nian.html"/>
+      </navPoint>
+      <navPoint id="uIquFWNo7gCOmzTkyFmGL8B" playOrder="143">
+        <navLabel>
+          <text>&lt;福图02&gt;耶稣受洗和受试探，开始传道</text>
+        </navLabel>
+        <content src="_Fu%20Tu%2002_Ye%20Su%20Shou%20Xi%20He%20Shou%20Shi%20Tan%20%2cKai%20Shi%20Chuan%20Dao.html"/>
+      </navPoint>
+      <navPoint id="u9VPxh6e9SPFHjapy29G8gA" playOrder="144">
+        <navLabel>
+          <text>&lt;福图03&gt;耶稣行传之二</text>
+        </navLabel>
+        <content src="_Fu%20Tu%2003_Ye%20Su%20Xing%20Chuan%20Zhi%20Er.html"/>
+      </navPoint>
+      <navPoint id="u39AI6vFsacrQe7uLtbvEL6" playOrder="145">
+        <navLabel>
+          <text>&lt;福图04&gt;耶稣行传之三</text>
+        </navLabel>
+        <content src="_Fu%20Tu%2004_Ye%20Su%20Xing%20Chuan%20Zhi%20San.html"/>
+      </navPoint>
+      <navPoint id="u7aTaEZH8sYyTqPA6n27KvD" playOrder="146">
+        <navLabel>
+          <text>&lt;福图05&gt;耶稣被卖、受审、定罪和被钉十字架</text>
+        </navLabel>
+        <content src="_Fu%20Tu%2005_Ye%20Su%20Bei%20Mai%20%2c%20Shou%20Shen%20%2c%20Ding%20Zui%20He%20Bei%20Ding%20Shi%20Zi%20Jia.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="uoZF8hPkcretgBdS6EnyOC6" playOrder="147">
+      <navLabel>
+        <text>28-使徒行传</text>
+      </navLabel>
+      <content src="0-README27.html"/>
+      <navPoint id="ujH99dmRcCSlukwGW6f2Pk5" playOrder="148">
+        <navLabel>
+          <text>&lt;徒图01&gt;五旬节时犹太人分布各处情形</text>
+        </navLabel>
+        <content src="_Tu%20Tu%2001_Wu%20Xun%20Jie%20Shi%20You%20Tai%20Ren%20Fen%20Bu%20Ge%20Chu%20Qing%20Xing.html"/>
+      </navPoint>
+      <navPoint id="uLAa6vKqP3dhogvGeOiJz3D" playOrder="149">
+        <navLabel>
+          <text>&lt;徒图02&gt;腓利和彼得传道的情形</text>
+        </navLabel>
+        <content src="_Tu%20Tu%2002_Fei%20Li%20He%20Bi%20De%20Chuan%20Dao%20De%20Qing%20Xing.html"/>
+      </navPoint>
+      <navPoint id="uamBF4kwMfartq5Pr6lY6K8" playOrder="150">
+        <navLabel>
+          <text>&lt;徒图03&gt;使徒到犹太省外传道，保罗信主和早期的工作</text>
+        </navLabel>
+        <content src="_Tu%20Tu%2003_Shi%20Tu%20Dao%20You%20Tai%20Sheng%20Wai%20Chuan%20Dao%20%2cBao%20Luo%20Xin%20Zhu%20He%20Zao%20Qi%20De%20Gong%20Zuo.html"/>
+      </navPoint>
+      <navPoint id="uVE5vJ2uDmNdEyRSP35p4iC" playOrder="151">
+        <navLabel>
+          <text>&lt;徒图04&gt;保罗第一次行传</text>
+        </navLabel>
+        <content src="_Tu%20Tu%2004_Bao%20Luo%20Di%20Yi%20Ci%20Xing%20Chuan.html"/>
+      </navPoint>
+      <navPoint id="ugGardf5hreWY4Yd2Lel3Q2" playOrder="152">
+        <navLabel>
+          <text>&lt;徒图05&gt;保罗第二次行传</text>
+        </navLabel>
+        <content src="_Tu%20Tu%2005_Bao%20Luo%20Di%20Er%20Ci%20Xing%20Chuan.html"/>
+      </navPoint>
+      <navPoint id="uvPbS6u7gRLjPzlqgOUhAi5" playOrder="153">
+        <navLabel>
+          <text>&lt;徒图06&gt;保罗第三次行传</text>
+        </navLabel>
+        <content src="_Tu%20Tu%2006_Bao%20Luo%20Di%20San%20Ci%20Xing%20Chuan.html"/>
+      </navPoint>
+      <navPoint id="uwPMRLUpe4ETqcnJ2tAkmL8" playOrder="154">
+        <navLabel>
+          <text>&lt;徒图07&gt;保罗被解押去罗马</text>
+        </navLabel>
+        <content src="_Tu%20Tu%2007_Bao%20Luo%20Bei%20Jie%20Ya%20Qu%20Luo%20Ma.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="uf3kDFgz67aOqkDlU3wVKi5" playOrder="155">
+      <navLabel>
+        <text>29-启示录</text>
+      </navLabel>
+      <content src="0-README28.html"/>
+      <navPoint id="uaY856pjjAKwG2eeQcEvvSG" playOrder="156">
+        <navLabel>
+          <text>&lt;启图01&gt;启示录</text>
+        </navLabel>
+        <content src="_Qi%20Tu%2001_Qi%20Shi%20Lu.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="uKHlba6x9ph9Lr6F6uIwHj6" playOrder="157">
+      <navLabel>
+        <text>30-附图</text>
+      </navLabel>
+      <content src="0-README29.html"/>
+      <navPoint id="ul7YCP4jEVbTRskOmKKQhq5" playOrder="158">
+        <navLabel>
+          <text>&lt;附图01&gt;加底斯及其近郊</text>
+        </navLabel>
+        <content src="_Fu%20Tu%2001_Jia%20Di%20Si%20Ji%20Qi%20Jin%20Jiao.html"/>
+      </navPoint>
+      <navPoint id="uhCRUtWgvAaGmExkTNyLoD7" playOrder="159">
+        <navLabel>
+          <text>&lt;附图02&gt;耶路撒冷城区和城墙变迁</text>
+        </navLabel>
+        <content src="_Fu%20Tu%2002_Ye%20Lu%20Sa%20Leng%20Cheng%20Qu%20He%20Cheng%20Qiang%20Bian%20Qian.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="uEyVjcjzI3ymp2kira96lMB" playOrder="160">
+      <navLabel>
+        <text>编排说明</text>
+      </navLabel>
+      <content src="Bian%20Pai%20Shuo%20Ming.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

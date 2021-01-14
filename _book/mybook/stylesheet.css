@@ -1,0 +1,270 @@
+.book-chapter {
+    display: none;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-before: always;
+    margin: 0.67em 0
+    }
+.calibre {
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    font-family: sans-serif
+    }
+.calibre1 {
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    color: #000;
+    display: block;
+    font-family: serif;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    text-size-adjust: 100%;
+    margin: 0 5pt
+    }
+.calibre2 {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    display: block;
+    font-size: 2em;
+    font-weight: 700;
+    line-height: 1.2;
+    page-break-after: avoid;
+    page-break-before: always;
+    text-align: center;
+    margin: 1.2em 0 0.8em
+    }
+.calibre3 {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    display: block;
+    font-size: 1em;
+    list-style-type: decimal;
+    margin-bottom: 0.8em;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.calibre4 {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    display: list-item;
+    font-size: 1em;
+    list-style-image: none;
+    list-style-position: outside;
+    list-style-type: none
+    }
+.calibre5 {
+    -webkit-box-sizing: border-box;
+    background: 0 0;
+    box-sizing: border-box;
+    color: #4183c4;
+    font-size: 1em;
+    margin-bottom: -1px;
+    padding-right: 5px;
+    text-decoration: none;
+    border-bottom: #fff solid 1px
+    }
+.calibre6 {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    display: block;
+    font-size: 1em;
+    list-style-type: lower-roman;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.calibre7 {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    display: block;
+    font-size: 2em;
+    font-weight: 700;
+    line-height: 1.2;
+    page-break-after: avoid;
+    page-break-before: always;
+    margin: 1.2em 0 0.8em
+    }
+.calibre8 {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    display: block;
+    font-size: 1em;
+    orphans: 3;
+    widows: 3;
+    margin: 0 0 0.8em
+    }
+.calibre9 {
+    -webkit-box-sizing: border-box;
+    background: 0 0;
+    box-sizing: border-box;
+    color: #4183c4;
+    font-size: 1em;
+    text-decoration: none
+    }
+.calibre10 {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    font-size: 1em;
+    height: auto;
+    max-width: 100%;
+    page-break-inside: avoid;
+    width: auto;
+    border: currentColor none 0
+    }
+.calibre11 {
+    -webkit-box-sizing: border-box;
+    border-collapse: collapse;
+    border-spacing: 0;
+    box-sizing: border-box;
+    display: table;
+    font-size: 1em;
+    margin-bottom: 0.8em;
+    margin-top: 0;
+    overflow: auto;
+    page-break-inside: avoid;
+    text-indent: 0;
+    width: 100%
+    }
+.calibre12 {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    display: table-header-group;
+    font-size: 1em;
+    vertical-align: middle
+    }
+.calibre13 {
+    -webkit-box-sizing: border-box;
+    background-color: #fff;
+    box-sizing: border-box;
+    display: table-row;
+    font-size: 1em;
+    page-break-inside: avoid;
+    vertical-align: inherit;
+    border-top: #ccc solid 1px
+    }
+.calibre14 {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    display: table-cell;
+    font-size: 1em;
+    font-weight: 700;
+    vertical-align: inherit;
+    padding: 6px 13px;
+    border: #ddd solid 1px
+    }
+.calibre15 {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    display: table-row-group;
+    font-size: 1em;
+    vertical-align: middle
+    }
+.calibre16 {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    display: table-cell;
+    font-size: 1em;
+    text-align: inherit;
+    vertical-align: inherit;
+    padding: 6px 13px;
+    border: #ddd solid 1px
+    }
+.calibre17 {
+    -webkit-box-sizing: border-box;
+    background-color: #f8f8f8;
+    box-sizing: border-box;
+    display: table-row;
+    font-size: 1em;
+    page-break-inside: avoid;
+    vertical-align: inherit;
+    border-top: #ccc solid 1px
+    }
+.calibre18 {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    display: list-item;
+    font-size: 1em
+    }
+.calibre19 {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    font-size: 1em;
+    font-weight: 700
+    }
+.calibre20 {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    display: block;
+    font-size: 1.83333em;
+    font-weight: 700;
+    line-height: 1.2;
+    orphans: 3;
+    page-break-after: avoid;
+    page-break-before: always;
+    widows: 3;
+    margin: 1.2em 0 0.8em
+    }
+.calibre21 {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    display: block;
+    font-size: 1.83333em;
+    font-weight: 700;
+    line-height: 1.2;
+    orphans: 3;
+    page-break-after: avoid;
+    widows: 3;
+    margin: 1.2em 0 0.8em
+    }
+.inner {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    display: block;
+    font-size: 1em;
+    margin-bottom: 4px;
+    border-bottom: #eee dotted 1px
+    }
+.page {
+    display: block
+    }
+.page1 {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    float: right;
+    font-size: 1em;
+    margin-bottom: -1px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-bottom: #fff solid 1px
+    }
+.section {
+    -moz-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    color: #000;
+    display: block;
+    line-height: 1.6;
+    overflow: hidden;
+    text-size-adjust: 100%;
+    word-wrap: break-word
+    }
+.pcalibre:focus {
+    outline: 0;
+    text-decoration: underline
+    }
+.pcalibre2:hover {
+    outline: 0;
+    text-decoration: underline
+    }
+.pcalibre1:active {
+    outline: 0;
+    text-decoration: underline
+    }
